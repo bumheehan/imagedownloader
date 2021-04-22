@@ -1,4 +1,4 @@
-package xyz.bumbing.image.handler;
+package xyz.bumbing.image;
 
 import java.io.BufferedReader;
 import java.io.File;
